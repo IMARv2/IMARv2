@@ -55,10 +55,6 @@ I approach IT as a single integrated discipline — from infrastructure and syst
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IMARv2&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IMARv2&layout=compact&theme=dark&hide_border=true)
 
 ---
 
