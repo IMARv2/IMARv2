@@ -25,7 +25,6 @@ role:        Fachinformatiker für Systemintegration
 location:    Duisburg, Germany
 focus:       [ self-hosted infrastructure, local AI, offensive security, embedded ]
 philosophy:  "Run it locally. Own your stack. Solve real problems."
-homelab:     RTX 3060 workstation · TrueNAS · Ubuntu AI host · ESP32 fleet
 ```
 
 ---
@@ -121,12 +120,17 @@ Complete 2D tower defense game built with Godot 4.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IMARv2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=8A2BE2&title_color=0078D4" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMARv2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=0078D4" alt="langs"/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMARv2&theme=tokyonight" alt="stats"/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IMARv2&theme=tokyonight" alt="langs"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IMARv2&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=0078D4&currStreakLabel=0078D4" alt="streak"/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IMARv2&theme=tokyonight" alt="most-used"/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IMARv2&theme=tokyonight&utcOffset=2" alt="productive-time"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=IMARv2&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=0078D4&currStreakLabel=0078D4" alt="streak"/>
 
 </div>
 
