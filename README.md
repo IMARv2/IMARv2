@@ -83,32 +83,32 @@ philosophy:  "Run it locally. Own your stack. Solve real problems."
 <tr>
 <td width="50%" valign="top">
 
-#### 🛡️ [iPhisher](https://github.com/IMARv2/iphisher)
-WiFi credential harvester for pentesters — evil twin, OS-native captive portals, WPS Pixie Dust & live verification.
-<br><sub>`Python` · `Kali` · `Scapy` · `Flask`</sub>
+#### 🧠 [RAG Agent](https://github.com/IMARv2/rag-agent)
+Self-hosted AI agent with semantic search and grounded, source-cited answers over 1,000+ private documents.
+<br><sub>`Python` · `FastAPI` · `ChromaDB` · `Ollama`</sub>
 
 #### 🤖 [Qwen Bridge](https://github.com/IMARv2/qwen-bridge)
-MCP server bridging Claude Code to local Ollama models for hybrid AI workflows.
+MCP server bridging Claude Code to local Ollama models — a hybrid AI workflow that cuts cloud inference cost.
 <br><sub>`Python` · `MCP` · `Ollama`</sub>
 
-#### 🧠 [RAG Agent](https://github.com/IMARv2/rag-agent)
-Local AI agent with semantic search over 1000+ PDF documents.
-<br><sub>`Python` · `RAG` · `Ollama`</sub>
+#### 🖥️ [SysMon Dashboard](https://github.com/IMARv2/sysmon-dashboard)
+Real-time infrastructure monitoring pushed over WebSockets — hosts, Docker, NAS, and network health.
+<br><sub>`Flask` · `Socket.IO` · `nginx`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🖥️ [SysMon Dashboard](https://github.com/IMARv2/sysmon-dashboard)
-Real-time infrastructure monitoring across Docker, NAS, and AI task tracking.
-<br><sub>`Flask` · `Socket.IO` · `nginx`</sub>
+#### 🛡️ [iPhisher](https://github.com/IMARv2/iphisher)
+WiFi security auditing toolkit for pentesters — evil twin, OS-native captive portals, WPS Pixie Dust & live verification.
+<br><sub>`Python` · `Kali` · `Scapy` · `Flask`</sub>
 
-#### 📈 [SwingBot](https://github.com/IMARv2/trading-bot)
-AI-assisted crypto swing trading bot with TP/SL risk management.
-<br><sub>`Python` · `Bitget` · `ccxt`</sub>
+#### 📡 [ESP32 Evil Twin](https://github.com/IMARv2/ESP32-EvilTwin)
+Dual-radio ESP32 security-awareness hub for hands-on WiFi threat demonstrations.
+<br><sub>`C++` · `ESP32` · `MicroPython`</sub>
 
-#### 🏰 [Tower Defense 2D](https://github.com/IMARv2/tower-defense-2d)
-Complete 2D tower defense game built with Godot 4.
-<br><sub>`Godot 4` · `GDScript`</sub>
+#### 🐧 [Dotfiles](https://github.com/IMARv2/dotfiles)
+Reproducible Linux desktop — NIRI Wayland compositor, Waybar, Alacritty, zsh on Arch/CachyOS.
+<br><sub>`Shell` · `NIRI` · `Wayland`</sub>
 
 </td>
 </tr>
