@@ -40,7 +40,6 @@ philosophy:  "Run it locally. Own your stack. Solve real problems."
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)
 
 **Backend & Infrastructure**
@@ -66,10 +65,6 @@ philosophy:  "Run it locally. Own your stack. Solve real problems."
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Wi-Fi](https://img.shields.io/badge/Wi--Fi_Security-FF6B00?style=flat-square&logo=wifi&logoColor=white)
-
-**Game Development**
-
-![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 </td>
 </tr>
