@@ -78,6 +78,10 @@ philosophy:  "Run it locally. Own your stack. Solve real problems."
 <tr>
 <td width="50%" valign="top">
 
+#### 🛰️ [Mission Control](https://github.com/IMARv2/mission-control)
+Live AI-agent observability cockpit — real-time 3D execution feed, session ledger, per-tool analytics, and local-LLM session summaries.
+<br><sub>`Python` · `FastAPI` · `three.js` · `WebSockets`</sub>
+
 #### 🧠 [RAG Agent](https://github.com/IMARv2/rag-agent)
 Self-hosted AI agent with semantic search and grounded, source-cited answers over 1,000+ private documents.
 <br><sub>`Python` · `FastAPI` · `ChromaDB` · `Ollama`</sub>
@@ -86,12 +90,12 @@ Self-hosted AI agent with semantic search and grounded, source-cited answers ove
 MCP server bridging Claude Code to local Ollama models — a hybrid AI workflow that cuts cloud inference cost.
 <br><sub>`Python` · `MCP` · `Ollama`</sub>
 
+</td>
+<td width="50%" valign="top">
+
 #### 🖥️ [SysMon Dashboard](https://github.com/IMARv2/sysmon-dashboard)
 Real-time infrastructure monitoring pushed over WebSockets — hosts, Docker, NAS, and network health.
 <br><sub>`Flask` · `Socket.IO` · `nginx`</sub>
-
-</td>
-<td width="50%" valign="top">
 
 #### 🛡️ [iPhisher](https://github.com/IMARv2/iphisher)
 WiFi security auditing toolkit for pentesters — evil twin, OS-native captive portals, WPS Pixie Dust & live verification.
@@ -100,10 +104,6 @@ WiFi security auditing toolkit for pentesters — evil twin, OS-native captive p
 #### 📡 [ESP32 Evil Twin](https://github.com/IMARv2/ESP32-EvilTwin)
 Dual-radio ESP32 security-awareness hub for hands-on WiFi threat demonstrations.
 <br><sub>`C++` · `ESP32` · `MicroPython`</sub>
-
-#### 🐧 [Dotfiles](https://github.com/IMARv2/dotfiles)
-Reproducible Linux desktop — NIRI Wayland compositor, Waybar, Alacritty, zsh on Arch/CachyOS.
-<br><sub>`Shell` · `NIRI` · `Wayland`</sub>
 
 </td>
 </tr>
